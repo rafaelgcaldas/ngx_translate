@@ -1,0 +1,13 @@
+{
+  "home": {
+    "title": "Olá Angular com ngx-translate!",
+    "link": "Ínicio"
+  },
+  "about": {
+    "title": "Sobre mim!",
+    "link": "Sobre"
+  },
+  "select" : {
+    "label": "Selecione idioma!"
+  }
+}
